@@ -1,1 +1,0 @@
-Please note that this process will empty the repository of its contents while preserving the directory structure. If you want to completely remove the Git repository itself, you can delete the entire repository folder, including the .git directory. Be extra cautious when deleting files, especially if there is important data in the repository.

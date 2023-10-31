@@ -1,0 +1,2 @@
+https://github.com/MMadhushree/Exp-DevOps.gitUser
+remove folder from git repo using bash
